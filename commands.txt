@@ -9,3 +9,4 @@ git commit -m "message"=> moving staging files to local repository
 git clone
 git push
 git pull
+git remote add name remote_path
