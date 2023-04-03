@@ -10,3 +10,4 @@ git clone
 git push
 git pull
 git remote add name remote_path
+git remote -v=> list all remote names
